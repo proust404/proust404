@@ -2,7 +2,12 @@
 
 ###
 
-<p align="center">Développeuse web & mobile fullstack junior, récemment diplômée et passionnée par la création d’applications modernes et bien conçues.<br>J’aime apprendre de nouvelles technos, tester des idées et transformer mes projets en quelque chose de concret.</p>
+<br/>
+
+<p align="center">Développeuse Web & Mobile Fullstack Junior en <strong>JavaScript, React et React Native</strong>, passionnée par la création d’applications modernes, performantes et bien pensées.</p>
+
+<br/>
+<br/>
 
 ###
 
@@ -36,13 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=proust404&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<br/>
+<br/>
 
 <h2 align="left">Me retrouver ailleurs :</h2>
 
